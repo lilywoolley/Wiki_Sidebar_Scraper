@@ -1,7 +1,7 @@
 # Wiki_Sidebar_Scraper
 
-Dependencies Needed:
-BeautifulSoup4
+Dependencies Needed:\n
+BeautifulSoup4\n
 pip install BeautifulSoup4
 
 This scraper uses a txt file communication pipe. When the scraper detects text in data.txt, it begins its scrape, erases the input it received from
